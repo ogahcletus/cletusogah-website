@@ -11,6 +11,7 @@ import '../styles/Projects.css';
 
 function Projects() {
   return (
+    
     <div className="projectItem">
     <h2>MY PERSONAL CODING PROJECTS</h2>
     <VerticalTimeline lineColor={'#0000FF'}>               <VerticalTimelineElement 
