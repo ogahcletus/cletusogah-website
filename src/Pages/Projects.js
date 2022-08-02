@@ -13,7 +13,7 @@ function Projects() {
   return (
     <div className="projectItem">
     <h2>MY PERSONAL CODING PROJECTS</h2>
-    <VerticalTimeline lineColor={'#3e497a'}>               <VerticalTimelineElement 
+    <VerticalTimeline lineColor={'#0000FF'}>               <VerticalTimelineElement 
         className="vertical-timeline-element-education" 
         date={'April, 2022'}
         iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
