@@ -144,7 +144,7 @@ function Certifications() {
            <li>FinTech Risk Management, The Hong Kong University of Science and Technology via Coursera, December, 2021</li>
            <li>FinTech Security and Regulation (RegTech), The Hong Kong University of Science and Technology via Coursera, December, 2021</li>
         </ul>
-
+        </VerticalTimelineElement>
         <VerticalTimelineElement className="vertical-timeline-element-education" 
         date={'August, 2021'}
         iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
@@ -174,7 +174,89 @@ function Certifications() {
         </ul>
         </VerticalTimelineElement>
 
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'November, 2019'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>Marketing & Sales</h3>
+        <ul>
+          <li>Inbound Methodology in Sales & Marketing, HubSpot Online Academy, November, 2019</li>
+          <li>Frictionless Sales, HubSpot Online Academy, November, 2019</li>
+          <li>Sales Management, HubSpot Online Academy, November, 2019</li>
+        </ul>
         </VerticalTimelineElement>
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'April-August 2021'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>Mini-MBA (Business & Enterpreneurship)</h3>
+        <ul>
+          <li>Mini-MBA Certification Course for Entrepreneurs, UDEMY, August, 2021</li>
+          <li>An Entire MBA in 1 Course by Award Winning Business School Professor, Chris Haroun, UDEMY, April, 2021</li>
+        </ul>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'November-December 2021'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>Cloud Technology</h3>
+        <ul>
+          <li>Innovating with Data and Google Cloud, Google Skills Academy via Coursera</li>
+          <li>Introduction to Digital Transformation with Google Cloud, Google Skills Academy via Coursera, November, 2021</li>
+          <li>Google Cloud Digital Leader Training, Google Skills Academy via Coursera, December, 2021</li>
+          <li>Infrastructure and Application Modernization with Google Cloud, Google Skills Academy via Coursera, December, 2021</li>
+          <li>Understanding Google Cloud Security and Operations, Google Skills Academy via Coursera, December, 2021</li>
+        </ul>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'May - June 2021'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>FInancial & Capital Market Operations</h3>
+        <ul>
+        <li>Accounting Fundamentals, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>Introduction to Coporate Finance, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>Reading Financial Statements, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>EXCEL CRASH COURSE -SPREADSHEET FORMULA FOR FINANCE, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>Banking Products and Services, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Introduction to Business Intelligence, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Forms of Business Structure, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Accounting Fundamentals, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>Data Science Fundamentals, Corporate Finance Institute, Canada, May, 2021</li>
+        <li>Foreign Exchange Essentials, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Accounting Fundamentals, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Fundamentals of Credit, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Banking Services, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Introduction to Capital Markets, Corporate Finance Institute, Canada, June, 2021</li>
+        <li>Statistics Fundamentals, Corporate Finance Institute, Canada, June, 2021</li>
+          
+        </ul>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'June, 2021'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>OIL & GAS </h3>
+        <ul>
+          <li>Oil & Gas Industry Operations and Markets, Duke University, USA via Coursera, June 2021</li>
+          <li>Natural Gas, University at Buffalo, The State University. New York City, USA via Coursera</li>
+        </ul>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'June, 2021'}
+        iconStyle={{background : '#0000FF' , color: '#FFFFFF'}} 
+        icon={<SchoolIcon />}>
+        <h3>OIL & GAS </h3>
+        <ul>
+          <li>Oil & Gas Industry Operations and Markets, Duke University, USA via Coursera, June 2021</li>
+          <li>Natural Gas, University at Buffalo, The State University. New York City, USA via Coursera</li>
+        </ul>
+        </VerticalTimelineElement>
+       
       </VerticalTimeline>
 
 

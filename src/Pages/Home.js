@@ -2,6 +2,7 @@ import React from 'react'
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from  "@material-ui/icons/Email";
+import PhoneIcon from "@material-ui/icons/Phone";
 import '../styles/Home.css'
 
 function Home() {
@@ -12,14 +13,17 @@ function Home() {
           <div className="prompt">
             <p>
             I am an engineer and a software developer with a passion for learning, solving problems and creating solutions...</p>
+            <div className="socialmedia">
             <GitHubIcon />
             <LinkedInIcon />
             <EmailIcon />
+            <PhoneIcon />
+            </div>
             
           </div>
         </div>
         <div className="skills">
-          <h1>Skills</h1>
+          <h2>SKILLS</h2>
           <ul className="list">
           <li className="item">          
             <h3>JavaScript programming</h3>

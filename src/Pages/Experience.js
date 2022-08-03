@@ -65,6 +65,32 @@ function Experience() {
         <p>Same functions as above but most of us as former staff of the previous Intercontinental bank were disengaged after soon after the completion of the acquision process by Access Bank</p>
         <p>Access Bank Plc, NIGERIA</p>
         </VerticalTimelineElement>
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'2016-2018'}
+        iconStyle={{background : '#3e497a' , color: '#FFFF00'}} 
+        icon={<WorkIcon />}>
+        <h3>Operations Manager</h3>
+        <p>Administrative services and business operations</p>
+        <p>Jethrone Hospital & Diagnostic Center, Abuja, NIGERIA</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'2018-2019'}
+        iconStyle={{background : '#3e497a' , color: '#FFFF00'}} 
+        icon={<WorkIcon />}>
+        <h3>Uber Taxi Driving Business Management</h3>
+        <p>Executive Transort Services</p>
+        <p>UBER, Abuja, NIGERIA</p>
+        </VerticalTimelineElement>
+
+
+        <VerticalTimelineElement className="vertical-timeline-element-education" 
+        date={'2019-2021'}
+        iconStyle={{background : '#3e497a' , color: '#FFFF00'}} 
+        icon={<WorkIcon />}>
+        <h3>Business Operations Consultant</h3>
+        <p>operations management</p>
+        <p>ELOFUSIM ENERGY Abuja, NIGERIA</p>
+        </VerticalTimelineElement>
 
 
         </VerticalTimeline>

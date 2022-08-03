@@ -24,10 +24,11 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <Link to="/"> Home </Link>
-        <Link to="/projects"> Projects </Link>
-        <Link to="/experience"> Experience </Link>
-        <Link to="/certifications"> Certifications </Link>
+        
+        <Link to="/"> HOME </Link>
+        <Link to="/certifications"> CERTIFICATIONS</Link>
+        <Link to="/experience"> EXPERIENCE </Link>
+        <Link to="/projects"> PROJECTS</Link>
       </div>
     </div>
   );
